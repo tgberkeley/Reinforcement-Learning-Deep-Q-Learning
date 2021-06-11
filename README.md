@@ -1,4 +1,6 @@
-# Reinforcement-Learning-Deep-Q-Learning
+# Reinforcement_Learning_Deep_Q_Learning
+
+## Reinforcement Learning Coursework 2 Imperial College London 2020/2021
 
 Implemented a deep Q-network to solve randomly generated mazes. The implementation is divided in three files: random_environment.py, train_and_test.py, and agent.py (random_environment.py and train_and_test.py were given)
 
