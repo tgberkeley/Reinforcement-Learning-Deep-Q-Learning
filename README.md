@@ -9,7 +9,7 @@ Implemented a deep Q-network to solve randomly generated mazes. The implementati
 * Features implemented in the agent.py file:
 
   * Double Q-network
-Epsilon-greedy policy. Different levels of epsilon decay throughout the training
-Episode length variations across the training time
-Experience replay buffer
-Positions of the obstacles encoded in the reward function by penalizing the agent every time it hits a wall
+  * Epsilon-greedy policy. Different levels of epsilon decay throughout the training
+  * Episode length variations across the training time
+  * Experience replay buffer
+  * Positions of the obstacles encoded in the reward function by penalizing the agent every time it hits a wall
